@@ -1,6 +1,6 @@
 import datetime
 
-
+# 13.9
 """ print("Hello Yusuf")
 
 if 5 > 2:
@@ -63,7 +63,7 @@ x = """
 # #a[0] = 2
 # print(a)
 
-# yunus = {"age": 10, "boy": 180, "sex": "Erkek"}
+# yunus = {"age": 10, "boy": 180, "sex": "Erkek"} # JSON JavaScript Object Notation Diğer dillerde Map
 # for a in yunus.keys(): # ["age", "boy", "sex"] 
 #     print(a + ": " + str(yunus[a]))
     
@@ -77,4 +77,3 @@ x = """
 
 # a = 3 + 5j # Complex No
 # print(a)
-
